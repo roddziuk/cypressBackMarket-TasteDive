@@ -1,0 +1,15 @@
+[
+    {
+      "q": "Titanic",
+      "info": 1,
+      "limit": 4,
+      "type": "movie"
+    },
+    {
+      "q": "One Hundred Years Of Solitude",
+      "info": 0,
+      "limit": "2",
+      "type": "book"
+    }
+
+]   
